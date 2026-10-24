@@ -1,0 +1,22 @@
+{
+  "now": "2026-10-25T19:00:00-07:00",
+  "busy": [
+    {"title": "Shift at the library", "start": "2026-10-31T10:00:00-07:00", "end": "2026-10-31T14:00:00-07:00"},
+    {"title": "Career fair", "start": "2026-11-04T15:00:00-07:00", "end": "2026-11-04T18:00:00-07:00"},
+    {"title": "Internship interview", "start": "2026-11-12T16:00:00-07:00", "end": "2026-11-12T17:00:00-07:00"},
+    {"title": "Interview prep with career center", "start": "2026-11-10T15:00:00-07:00", "end": "2026-11-10T16:30:00-07:00"}
+  ],
+  "tasks": [
+    {"id": "canvas-501", "title": "Homework 6", "course": "STP 420", "due": "2026-10-28T23:59:00-07:00", "unlock": "2026-10-21T00:00:00-07:00", "estimate_hours": 3, "weight_pct": 4},
+    {"id": "canvas-502", "title": "Quiz 7", "course": "CSE 310", "due": "2026-10-29T23:59:00-07:00", "estimate_hours": 1, "weight_pct": 2},
+    {"id": "canvas-503", "title": "Reading response 5", "course": "ENG 301", "due": "2026-10-30T23:59:00-07:00", "estimate_hours": 2, "weight_pct": 3},
+    {"id": "canvas-504", "title": "Lab 4", "course": "CSE 340", "due": "2026-11-02T23:59:00-07:00", "estimate_hours": 4, "weight_pct": 6},
+    {"id": "canvas-505", "title": "Homework 7", "course": "STP 420", "due": "2026-11-04T23:59:00-07:00", "unlock": "2026-10-28T00:00:00-07:00", "estimate_hours": 3, "weight_pct": 4},
+    {"id": "canvas-506", "title": "Project 3", "course": "CSE 310", "due": "2026-11-12T23:59:00-07:00", "estimate_hours": 10, "weight_pct": 15},
+    {"id": "exam-cse310-mid2", "title": "Midterm 2", "course": "CSE 310", "due": "2026-11-11T10:30:00-07:00", "kind": "exam", "estimate_hours": 9, "weight_pct": 20},
+    {"id": "canvas-507", "title": "Homework 8", "course": "STP 420", "due": "2026-11-11T23:59:00-07:00", "unlock": "2026-11-04T00:00:00-07:00", "estimate_hours": 3, "weight_pct": 4},
+    {"id": "canvas-508", "title": "Essay 2", "course": "ENG 301", "due": "2026-11-13T23:59:00-07:00", "estimate_hours": 6, "weight_pct": 15},
+    {"id": "canvas-509", "title": "Lab 5", "course": "CSE 340", "due": "2026-11-14T23:59:00-07:00", "estimate_hours": 4, "weight_pct": 6},
+    {"id": "canvas-510", "title": "Homework 9", "course": "STP 420", "due": "2026-11-18T23:59:00-07:00", "unlock": "2026-11-11T00:00:00-07:00", "estimate_hours": 3, "weight_pct": 4}
+  ]
+}
