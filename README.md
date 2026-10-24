@@ -16,17 +16,17 @@ Then text "plan my week". Nothing to sign up for and no API keys: it uses the Ca
 
 ## What it does
 
-Most planners answer "what should I do this week?". Oh Shift! also answers "which week is going to wreck me, and what can I do about it now?"
+Most planners tell you what to do this week. **Oh Shift! tells you which week is going to wreck you—and fixes it before you get there.**
 
-- **Storm Radar.** A load forecast for the next 4 weeks from your Canvas deadlines, class schedule and goals. It names the bad week and what makes it bad.
-- **Future Pull.** When a storm is coming, work that's already posted moves into a lighter week before it hits.
-- **A real week plan.** Homework, workouts, sports and meals packed into calendar blocks, with slack left in every day. Goes on your Google Calendar after you say yes.
-- **One text replans.** "skipped gym", "that homework took 5 hours", "flying home Thursday". Only what's affected moves.
-- **Minimum Viable Week.** Tell it what keeps you sane (7h sleep, 2 workouts, two meals, one free evening). In a crunch week, goals shrink to that minimum. They never disappear.
-- **North Stars.** "A- in CSE 310" or "internship recruiting". Tradeoffs follow what matters to you, not just due dates.
-- **Lock-In.** A text when a key block starts. If you opt in and don't answer, Cubbie calls.
-- **Panic mode.** "I'm drowning" gets you the 3 things that actually matter this week, what can slide, and what stays protected.
-- Works by voice: "Hey Siri, text Cubbie I skipped the gym today."
+- **🌩️ Storm Radar** — Sees your next 4 weeks and warns you when exams, projects, deadlines, and life are about to pile up.
+- **⏪ Future Pull** — Bad week coming? It starts work early while you still have room to breathe.
+- **📆 Your Week, Handled** — Classes, homework, gym, sports, meals, and actual free time—all fit together.
+- **🔀 Life Happened? Shift It.** — “Homework took 5 hours.” “Skipped gym.” “Flying Thursday.” One text, and only what needs to move moves.
+- **🛟 Minimum Viable Week** — When you're cooked, sleep, meals, workouts, and some free time don't magically disappear. Oh Shift! protects your minimum.
+- **⭐ North Stars** — Tell it what actually matters—“A- in CSE 310,” “land an internship,” “train for my race.” Your week bends around your priorities.
+- **🔒 Lock-In** — Get a nudge when it's go-time. Ignore it long enough and, if you opt in, Cubbie can literally call you.
+- **🚨 Panic Mode** — Text “I’m drowning.” Get the 3 things that matter, what can wait, and what you absolutely shouldn't drop.
+- **🗣️ Zero-effort replanning** — “Hey Siri, text Cubbie I skipped the gym.” Done. Oh Shift! handles the fallout.
 
 ## What it looks like
 
